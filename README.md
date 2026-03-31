@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently studying Computer & Network Engineering at SMK Negeri 1 Batam.
-- 🔭 I’m actively working on a **Mask-themed Game** using Unity and C#.
+- 🔭 Sometimes actively working on a Game Development using Unity and C#.
 - 🌱 Exploring deeper into **Networking (Cisco)** and **Server Administration (Linux/Docker)**.
 - 💻 My recent web projects include **RasaTaurant** (Restaurant Profile) and **Kursus Online MTK** (E-Learning platform), along with personal tribute sites like Lifana and Rins Birthday.
 - 🎵 When I'm not writing code or configuring servers, I produce EDM and Future Bounce tracks.
