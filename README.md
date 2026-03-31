@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm a Tech Enthusiast & Creator! 👋</h1>
+<h1 align="center">Hi there, I'm a Programmer and Producer! 👋</h1>
 
 <p align="center">
-  <em>Computer & Network Engineering Student | Web Developer | Game Dev Aspirant | Music Producer</em>
+  <em>Software Engineering Student | Web Developer | Game Dev Aspirant | Music Producer</em>
 </p>
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently studying Software Engineering at Batam State Polytechnic.
 - 🔭 Sometimes actively working on a Game Development using Unity and C#.
 - 🌱 Exploring deeper into **Networking (Cisco)** and **Server Administration (Linux/Docker)**.
-- 💻 My recent web projects include **RasaTaurant** (Restaurant Profile) and **Kursus Online MTK** (E-Learning platform), along with personal tribute sites like Lifana and Rins Birthday.
 - 🎵 When I'm not writing code or configuring servers, I produce EDM and Future Bounce tracks.
+- 🎧 Listen to my music on [Spotify: Musuko Khairiy](https://open.spotify.com/artist/7czoHf5wK0dH6ZLeP4ti6X?si=80dd35642e634720).
 
 ### 🛠️ Tech Stack & Tools
 
@@ -32,9 +32,12 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
-**Audio Production:**
+**Audio Production & Spotify:**
 <p align="left">
   <img src="https://img.shields.io/badge/FL_Studio-FFA500?style=for-the-badge&logo=fl-studio&logoColor=white" alt="FL Studio" />
+  <a href="https://open.spotify.com/artist/7czoHf5wK0dH6ZLeP4ti6X?si=80dd35642e634720" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
 </p>
 
 ### 📈 GitHub Stats
