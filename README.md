@@ -44,26 +44,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=musukodev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-```bash
-
-                   -`                    musuko@musukoarch 
-                  .o+`                   ----------------- 
-                 `ooo/                   OS: Arch Linux x86_64 
-                `+oooo:                  Host: 81T0 Legion Y7000 2019 PG0 
-               `+oooooo:                 Kernel: 6.19.11-zen1-1-zen 
-               -+oooooo+:                Uptime: 7 hours, 37 mins 
-             `/:-:++oooo+:               Packages: 955 (pacman), 37 (flatpak) 
-            `/++++/+++++++:              Shell: zsh 5.9 
-           `/++++++++++++++:             Resolution: 1920x1080 
-          `/+++ooooooooooooo/`           WM: Hyprland 
-         ./ooosssso++osssssso+`          Theme: Wallbash-Gtk [GTK2/3] 
-        .oossssso-````/ossssss+`         Icons: Tela-circle-dracula [GTK2/3] 
-       -osssssso.      :ssssssso.        Cursor: Bibata-Modern-Ice [GTK2/3] 
-      :osssssss/        osssso+++.       Terminal: kitty 
-     /ossssssss/        +ssssooo/-       Terminal Font: CaskaydiaCove Nerd Font Mono 9.0 
-   `/ossssso+/:-        -:/+osssso+-     CPU: Intel i7-9750HF (12) @ 2.600GHz 
-  `+sso+:-`                 `.-/+oso:    GPU: NVIDIA GeForce GTX 1650 Mobile / Max-Q 
- `++:.                           `-/+/   Memory: 8567 MiB / 15776 MiB 
- .`                                 `/   Network: Wifi 
-```
